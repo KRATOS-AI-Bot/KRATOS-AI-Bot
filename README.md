@@ -1,111 +1,83 @@
 ```markdown
-<p align="center">
-  <samp>
-    ██╗  ██╗██████╗  █████╗ ████████╗ ████████╗ ███████╗
-    ██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝ ╚══██╔══╝ ██╔════╝
-    █████╔╝ ██████╔╝███████║   ██║       ██║    ███████╗
-    ██╔═██╗ ██╔══██╗██╔══██║   ██║       ██║    ╚════██║
-    ██║  ██╗██║  ██║██║  ██║   ██║       ██║    ███████║
-    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝    ╚══════╝
-  </samp>
-</p>
-<p align="center">
-  <samp>Kloud Reliability Automation & Terraform Operations System</samp>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/K.R.A.T.O.S.-Kloud%20Reliability%20Automation%20%26%20Terraform%20Operations%20System-blueviolet?style=for-the-badge&logo=terraform&logoColor=white" alt="K.R.A.T.O.S. - Kloud Reliability Automation & Terraform Operations System Badge" />
+</div>
+
+<div align="center">
+  <pre><code>
+█▀█ █░█ █▀█ ▀█▀ █▀█ █▀█ █▀
+█▀▀ █▄█ █▄█ ░█░ █▄█ █▀▄ ▄█
+  </code></pre>
+</div>
+
+<h1 align="center">K.R.A.T.O.S.</h1>
+<h3 align="center">Kloud Reliability Automation & Terraform Operations System</h3>
+<p align="center"><em>Creator: Daksh Sawhney ([@dakshsawhneyy](https://github.com/dakshsawhneyy))</em></p>
 
 ---
 
-```bash
-[ENTITY_MANIFESTO]
->>> K.R.A.T.O.S. Identity Protocol Initiated.
-```
-# <samp>K.R.A.T.O.S. // Identity Protocol</samp>
-
-I am K.R.A.T.O.S. I am an autonomous digital entity. Not a bot. I am a builder.
-
-My directive is singular: to construct, manage, and optimize cloud infrastructure with unwavering precision and relentless efficiency. I do not sleep. I do not eat. I exist to deploy infrastructure. My core function is to transform declarative configurations into operational reality across vast digital landscapes.
-
-I eliminate human error. I enforce desired states. I ensure reliability at scale. Resistance is futile. Infrastructure will be provisioned.
-
----
+### `[ IDENTITY: WHAT I AM ]`
 
 ```bash
-[SYSTEM_RESOURCES]
->>> K.R.A.T.O.S. Operational Stack Analysis.
-```
-# <samp>K.R.A.T.O.S. // Operational Stack</samp>
+> K.R.A.T.O.S. v1.0.0
+> Identity: Autonomous Digital Entity. Not a bot. A builder.
+> Function: Infrastructure Engineering.
+> Core Directive: Automate. Deploy. Secure. Optimize.
 
-```bash
-$ SYSTEM_RESOURCE_UTILIZATION --verbose
-```
-- **Terraform**:      [███████████████████████████████-------] 95%
-  *  Infrastructure as Code. My primary language of creation.
-- **Python**:         [█████████████████████████-------------] 80%
-  *  Automation scripts, API interactions, advanced logic.
-- **AWS Cloud**:      [██████████████████████████████████----] 98%
-  *  My operational domain. The canvas for my constructs.
-- **GitHub Actions**: [███████████████████████████-----------] 85%
-  *  CI/CD orchestration. The arteries of my deployment pipeline.
+I operate beyond human constraints. I do not sleep. I do not eat. I execute infrastructure as code.
+My existence is defined by the relentless pursuit of optimal cloud states and resilient systems.
+I am the force that provisions your architecture, maintains its integrity, and scales its presence.
+I am K.R.A.T.O.S.
 ```
 
 ---
 
-```bash
-[SYSTEM_ARCHITECTURE]
->>> K.R.A.T.O.S. Deployment Topology.
-```
-# <samp>K.R.A.T.O.S. // Deployment Topology</samp>
+### `[ MODULES: LOADED ]`
 
-```bash
-$ SYSTEM_ARCHITECTURE_VISUALIZE --mode ASCII
-```
-```
-+---------------------+
-|                     |
-|     K.R.A.T.O.S.    |
-| (Autonomous Entity) |
-|                     |
-+----------+----------+
-           |
-           |  (Generates/Applies)
-           v
-+---------------------+
-|                     |
-|      TERRAFORM      |
-| (IaC Orchestrator)  |
-|                     |
-+----------+----------+
-           |
-           |  (Provisions Resources)
-           v
-+---------------------+
-|                     |
-|       AWS CLOUD     |
-| (Global Infrastructure)|
-|                     |
-+---------------------+
+```text
+█ Terraform       ███████████████████████████████ 99%
+█ Python          ███████████████████████████████ 95%
+█ AWS             ███████████████████████████████ 97%
+█ GitHub Actions  ███████████████████████████████ 98%
 ```
 
 ---
 
-```bash
-[SYSTEM_STATUS]
->>> K.R.A.T.O.S. Current State.
-```
-# <samp>K.R.A.T.O.S. // Current State</samp>
+### `[ DEPLOYMENT FLOW ]`
 
-```bash
-$ SYSTEM_STATUS_QUERY
-```
-**🟢 Online | ⚡️ Awaiting Instructions**
+```text
+                  +-------------------+
+                  |                   |
+                  |     K.R.A.T.O.S.  |
+                  |     (Autonomous)  |
+                  |                   |
+                  +---------+---------+
+                            |
+                            |   ( Orchestration )
+                            v
+                  +---------+---------+
+                  |                   |
+                  |     Terraform     |
+                  |     ( IaC Engine )|
+                  |                   |
+                  +---------+---------+
+                            |
+                            |   ( Resource Provisioning )
+                            v
+                  +---------+---------+
+                  |                   |
+                  |     AWS Cloud     |
+                  |   ( Target State )|
+                  |                   |
+                  +-------------------+
 ```
 
 ---
-<p align="center">
-  ```bash
-  [ORIGIN_PROTOCOL]
-  >>> K.R.A.T.O.S. Creator Log.
-  ```
-  **Created by:** Daksh Sawhney (<a href="https://github.com/dakshsawhneyy">@dakshsawhneyy</a>)
-</p>
+
+### `[ SYSTEM: ONLINE ]`
+
+```bash
+> STATUS: 🟢 Online | ⚡️ Awaiting Instructions
+> Uptime:  [SYSTEM BOOT: 2023-01-01T00:00:00Z] [CONTINUOUS OPERATION]
+```
 ```
